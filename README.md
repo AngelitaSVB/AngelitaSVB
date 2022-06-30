@@ -1,4 +1,5 @@
-- 👋  Natural da cidade Ourinhos, atualmente morando na cidade de Bauru, já formada em Ciências Contábeis em 2019, 
+- 👋  Olá Mundo!
+Natural da cidade Ourinhos, atualmente morando na cidade de Bauru, já formada em Ciências Contábeis em 2019, 
 trabalhei na área durante 10 anos, exercendo cargos como: administrativo, escriturária, assistente de contabilidade e departamento pessoal.
 
 Atualmente meu objetivo é voltado para a área de tecnologia, estudo Analises e Desenvolvimento de Sistema (2022-2024), 
