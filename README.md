@@ -1,10 +1,10 @@
--Natural da cidade Ourinhos, atualmente morando na cidade de Bauru, formada em Ciências Contábeis em 2019, 
-trabalhei na área durante 10 anos, exercendo cargos como: administrativo, escriturária, assistente de contabilidade e departamento pessoal.
+Olá!
 
--Atualmente meu objetivo é voltado para a área de tecnologia, estudo Analises e Desenvolvimento de Sistema (2022-2024), 
-também participo de cursos e estudos voltados para meu crescimento e amplo conhecimento.
+Sou formada em Análise e Desenvolvimento de Sistemas e em Ciências Contábeis, com mais de 10 anos de experiência na área contábil, ocupando cargos como administrativo, escriturária, assistente de contabilidade e departamento pessoal. Minha formação técnica e minha vasta experiência profissional me proporcionaram uma base sólida tanto em tecnologia quanto em finanças, o que me permite abordar problemas de forma analítica e estruturada.
 
--Sempre autodidata, permanecendo com vontade de aprender cada vez mais!
+Minha trajetória no curso de Análise e Desenvolvimento de Sistemas me deu habilidades valiosas em programação, análise de dados e desenvolvimento de soluções tecnológicas inovadoras. Sou apaixonada por aprender e estou sempre em busca de cursos e oportunidades de desenvolvimento para aprimorar minhas competências.
+
+
 
 email: angelitasvb@gmail.com
 Linkedin: <https://www.linkedin.com/in/angelita-da-silva-vilas-boas-56aabb16a/>
