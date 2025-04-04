@@ -1,15 +1,15 @@
-Olá!
+## 👋 Quem sou eu?
 
-Sou formada em Análise e Desenvolvimento de Sistemas e em Ciências Contábeis, com mais de 10 anos de experiência na área contábil, ocupando cargos como administrativo, escriturária, assistente de contabilidade e departamento pessoal. Minha formação técnica e minha vasta experiência profissional me proporcionaram uma base sólida tanto em tecnologia quanto em finanças, o que me permite abordar problemas de forma analítica e estruturada.
+Atualmente, estou cursando **Ciência de Dados**, ampliando meus conhecimentos em análise, modelagem e inteligência de dados. Recentemente, concluí minha formação em **Análise e Desenvolvimento de Sistemas**, consolidando minha transição para a área de tecnologia. Com uma base sólida em **Ciências Contábeis** e mais de 10 anos de experiência em contabilidade, busco unir minha expertise financeira à análise de dados para gerar **insights estratégicos** e **soluções inovadoras**.
 
-Minha trajetória no curso de Análise e Desenvolvimento de Sistemas me deu habilidades valiosas em programação, análise de dados e desenvolvimento de soluções tecnológicas inovadoras. Sou apaixonada por aprender e estou sempre em busca de cursos e oportunidades de desenvolvimento para aprimorar minhas competências.
+---
 
+## 🚀 O que me motiva?
 
+Minha paixão por **dados**, **tecnologia** e **automação** me levou a buscar novos desafios na área de **desenvolvimento de software** e **banco de dados**. Combinando minha experiência contábil com o conhecimento técnico adquirido, procuro desenvolver **soluções inteligentes** para otimizar processos e gerar valor através da informação.
 
-email: angelitasvb@gmail.com
-Linkedin: <https://www.linkedin.com/in/angelita-da-silva-vilas-boas-56aabb16a/>
+---
 
-<!---
-AngelitaSVB/AngelitaSVB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Objetivo
+
+Atualmente, estou em busca de um **estágio na área de Banco de Dados ou Análise e Desenvolvimento de Sistemas**, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções inovadoras.
