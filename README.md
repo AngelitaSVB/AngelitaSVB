@@ -27,8 +27,7 @@ Quero aplicar meus conhecimentos técnicos e minha bagagem em contabilidade para
 
 ---
 
-## 📫 Contato
-- 📍 Ourinhos/SP — Disponível para mudança ou trabalho remoto  
+## 📫 Contato 
 - 📧 angelitasvb@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/angelita-da-silva-vilas-boas)  
 - 💻 [Portfólio](https://github.com/AngelitaSVB/portfolio)
