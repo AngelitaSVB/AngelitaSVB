@@ -17,11 +17,19 @@ Acredito no poder dos dados para **orientar decisões inteligentes** e estou con
 ---
 
 ## 🎯 Objetivo
-Busco uma oportunidade de **estágio em Ciência de Dados** ou **Análise e Desenvolvimento de Sistemas**, com foco em:
 
-- 🗃️ **Banco de Dados**: criação de consultas SQL, modelagem de dados e automação de rotinas.  
-- 📈 **Análise de Dados**: uso de Python e SQL para explorar dados, gerar relatórios e apoiar decisões.  
-- 🖥️ **Desenvolvimento Back-End**: aplicações simples com Python, integração com APIs e uso de serviços AWS (como Lambda e S3).
+Busco uma oportunidade para aplicar e expandir meus conhecimentos em desenvolvimento de software, com foco em:
+
+
+- 💻 **Desenvolvimento Front-End:** desenvolvimento de interfaces modernas e responsivas com Angular, HTML, CSS e JavaScript.
+- ☁️ **Computação em Nuvem:** experiência inicial com deploy e gerenciamento de aplicações em AWS S3 e outros serviços.
+- 🗃️ **Banco de Dados:** criação de consultas SQL, modelagem de dados e automação de processos.
+- 📈 **Análise de Dados:** utilização de Python e SQL para explorar dados, gerar relatórios e apoiar a tomada de decisões.
+- 🖥️ **Desenvolvimento Back-End:** construção de aplicações simples com Python e Java, integração com APIs REST e uso de serviços AWS, como Lambda e S3.
+
+
+Estou motivada para crescer profissionalmente, aprender novas tecnologias e contribuir com projetos que gerem impacto real.
+
 
 Quero aplicar meus conhecimentos técnicos e minha bagagem em contabilidade para **construir soluções inteligentes**, melhorar processos e apoiar a tomada de decisões com base em dados.
 
